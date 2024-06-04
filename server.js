@@ -15,10 +15,10 @@ var betamount =0;
 var clients = [];
 
 const connection = mysql.createConnection({
-  host: '148.251.91.91',
-  user: 'instawingame_game',
-  password: 'instawingame_game',
-  database: 'instawingame_game'
+  host: '184.168.104.44',
+  user: 'win_roxxygame2024',
+  password: 'win_roxxygame2024',
+  database: 'win_roxxygame2024'
 });
 
 //Function to set crash point
